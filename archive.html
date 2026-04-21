@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Our Archive • Josh + Shione</title>
+    <meta
+      name="description"
+      content="A private archive of sweet morning notes from Josh to Shione."
+    />
+    <meta name="theme-color" content="#fff1f4" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="page-header">
+        <div class="page-nav">
+          <a class="back-link" href="./index.html">← Back home</a>
+        </div>
+      </header>
+
+      <main class="main-layout">
+        <section class="archive-panel" id="archive" aria-labelledby="archive-heading">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">The long list of growing soppy lovy-dovy stuff that I know you love ssoooo much </p>
+              <h2 id="archive-heading">Our archive</h2>
+              <p class="section-copy">
+                Every note lives here, the good, the nasty, and everything in between.
+              </p>
+            </div>
+
+            <label class="search-field" for="search-input">
+              <span class="visually-hidden">Search notes</span>
+              <input
+                id="search-input"
+                type="search"
+                placeholder="Search a date or message contents"
+                autocomplete="off"
+              />
+            </label>
+          </div>
+
+          <div class="archive-list" id="archive-list"></div>
+          <p class="empty-state" id="empty-state" hidden>
+            No notes match that search yet.
+          </p>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <p class="site-footer-copy">For Shione, always. Love, Josh.</p>
+      </footer>
+    </div>
+
+    <template id="archive-item-template">
+      <details class="archive-item">
+        <summary class="archive-summary">
+          <div class="archive-summary-copy">
+            <p class="archive-date"></p>
+            <h3 class="archive-title"></h3>
+            <p class="archive-preview"></p>
+          </div>
+          <span class="archive-action">Open</span>
+        </summary>
+        <div class="archive-body"></div>
+      </details>
+    </template>
+
+    <script src="./data/photos.js"></script>
+    <script src="./data/messages.js"></script>
+    <script src="./archive.js"></script>
+  </body>
+</html>

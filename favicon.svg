@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Morning Notes icon">
+  <defs>
+    <linearGradient id="sky" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff7ef" />
+      <stop offset="100%" stop-color="#ffd5bf" />
+    </linearGradient>
+    <linearGradient id="sun" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#f6a168" />
+      <stop offset="100%" stop-color="#e06f52" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#sky)" />
+  <path d="M12 40c5.5-5.5 11.6-8.2 18.2-8.2 6.5 0 12.8 2.7 18.8 8.2" fill="none" stroke="#b9654c" stroke-linecap="round" stroke-width="3.5" />
+  <circle cx="32" cy="28" r="10" fill="url(#sun)" />
+  <path d="M23 18.6 20 15.7M41 18.6l3-2.9M17.5 28H13M51 28h-4.5" fill="none" stroke="#d57f5d" stroke-linecap="round" stroke-width="2.5" />
+</svg>
