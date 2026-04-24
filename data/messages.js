@@ -1,5 +1,17 @@
 window.MORNING_NOTES = [
   {
+    "date": "2026-04-25",
+    "title": "Happy Birthday Baby!!",
+    "message": "It's finally here!!!! I've been working on this, I know it's not much but it's something I can do with my own hands and what I have to work with, I hope it can be a place to wake up to cute messages and somewhere to know you're loved each day.. \n\n Can't wait to see you baby, love love love.",
+    "photo": null
+  },
+  {
+    "date": "2026-04-21",
+    "title": "Spending tonight together",
+    "message": "First time we've been together since I thought we were broken up. It's the happiest I've been in a while, the utter joy knowing you're here and we're together. We've just been in togethers company, you've been drawing me, we've been watching Kath and Kim ,it feels so natural and I'm so happy and so in love. \n\n Love you forever.",
+    "photo": null
+  },
+  {
     "date": "2026-04-20",
     "title": "Today bought the weirdly best news",
     "message": "So maybe I read the whole situation wrong over the last few days, which is weirdly happy-sad. I'm so over the moon excited that you weren't breaking up with me, but so disappointed in myself for letting us both have a terrible few days in that limbo. Either way I'm so incredibly happy to sleep knowing I'm yours and your mine.   \n\nFull of love for you baby.",
