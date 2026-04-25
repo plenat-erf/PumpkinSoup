@@ -2,5 +2,6 @@ window.PHOTO_MANIFEST = [
   "babyWillow.jpg",
   "willieWatercolor.png",
   "wheresWally.png",
-  "bigSnake.jpg"
+  "bigSnake.jpg",
+  "youAndDad.jpg"
 ];
