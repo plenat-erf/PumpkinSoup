@@ -1,5 +1,11 @@
 window.MORNING_NOTES = [
   {
+    "date": "2026-04-26",
+    "title": "Good Moring, I love you",
+    "message": "Good morning, you're loved, you're beautiful, you're worthy, and you deserve good things. It's the day after, I know yo have work, I know you aren't extremely happy with me or with much at all right now, but I'm the way I am and you have to know you are loved. I know times are hard with everything right now, and I'm still here to support you through it. To help change the drag link, to do the two weekly mow, to help with being a respite center. I'm here. I love you. \n\n Always love forever.",
+    "photo": "youAndDad.jpg"
+  },
+  {
     "date": "2026-04-25",
     "title": "Happy Birthday Baby!!",
     "message": "It's finally here!!!! I've been working on this, I know it's not much but it's something I can do with my own hands and what I have to work with, I hope it can be a place to wake up to cute messages and somewhere to know you're loved each day.. \n\n Can't wait to see you baby, love love love.",
