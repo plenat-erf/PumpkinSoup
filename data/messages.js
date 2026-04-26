@@ -1,5 +1,11 @@
 window.MORNING_NOTES = [
   {
+    "date": "2026-04-27",
+    "title": "Goooodest morning, always thinking about you x",
+    "message": "It's another day, another one that you deserve beauty and happiness and love. You're always in my thoughts, along with out cuuteeee little ones, attached photo for extra cuteness. \n\n I will always love you.",
+    "photo": "heatThief.jpg"
+  },
+  {
     "date": "2026-04-26",
     "title": "Good Moring, I love you",
     "message": "Good morning, you're loved, you're beautiful, you're worthy, and you deserve good things. It's the day after, I know yo have work, I know you aren't extremely happy with me or with much at all right now, but I'm the way I am and you have to know you are loved. I know times are hard with everything right now, and I'm still here to support you through it. To help change the drag link, to do the two weekly mow, to help with being a respite center. I'm here. I love you. \n\n Always love forever.",
