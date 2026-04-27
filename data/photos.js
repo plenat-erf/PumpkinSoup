@@ -4,5 +4,6 @@ window.PHOTO_MANIFEST = [
   "wheresWally.png",
   "bigSnake.jpg",
   "youAndDad.jpg",
-  "heatThief.jpg"
+  "heatThief.jpg",
+  "ringStinger.jpg"
 ];
