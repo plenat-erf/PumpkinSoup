@@ -1,5 +1,11 @@
 window.MORNING_NOTES = [
   {
+    "date": "2026-04-30",
+    "title": "Gooodest morning you absolute stunner!",
+    "message": "Goooood morning baby, missing you like absolute crazy right now and photos like this one don't help. You're beautiful, I love and miss you, and you are worth every second of stepping out of my comfort zone for. \n\n Love love love, and always missing you.",
+    "photo": "absoluteStunner.jpg"
+  },
+  {
     "date": "2026-04-29",
     "title": "Another beautiful day",
     "message": "Good morning!!! Another morning, another day I'm thinking about you and missing you. I've got a call today and more than likely a job from it. Gardening, nothing special but excited to start something. Excited to hear about your day too, call me when it's done and tell me all about it! \n\n I love you baby, forever x x",
