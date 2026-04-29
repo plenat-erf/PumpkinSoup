@@ -6,5 +6,6 @@ window.PHOTO_MANIFEST = [
   "youAndDad.jpg",
   "heatThief.jpg",
   "ringStinger.jpg",
-  "usCute.jpg"
+  "usCute.jpg",
+  "absoluteStunner.jpg"
 ];
