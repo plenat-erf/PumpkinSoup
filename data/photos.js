@@ -7,5 +7,6 @@ window.PHOTO_MANIFEST = [
   "heatThief.jpg",
   "ringStinger.jpg",
   "usCute.jpg",
-  "absoluteStunner.jpg"
+  "absoluteStunner.jpg",
+  "willowDrawn.png"
 ];
