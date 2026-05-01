@@ -1,5 +1,11 @@
 window.MORNING_NOTES = [
   {
+    "date": "2026-05-02",
+    "title": "Hoping work was smooth as a smoothie x",
+    "message": "Hopefully  you read this when you're finished work, all tucked in and getting some rest. You are loved as always, beautiful as ever, and worth every damn moment of joy and happiness. \n\n Love you!!!!.",
+    "photo": null
+  },
+  {
     "date": "2026-05-01",
     "title": "Really feeling it today",
     "message": "I'm feeling very lost without you today, I miss you so much right now. You've been all up in my mind, i miss the kids, I miss us. So much. I hope your day is spectacular, you get some rest, and the weather is perfect cuddle-the-kids-for-me weather. \n\n Missing you immensely.",
