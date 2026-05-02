@@ -1,5 +1,11 @@
 window.MORNING_NOTES = [
   {
+    "date": "2026-05-03",
+    "title": "Monday just keeps getting closer",
+    "message": "Thinking about you, thinking about seeing you Monday. And it just keeps getting closer! That's very exciting to me, I can't wait to hold you again. \n\n Much love baby, as always.",
+    "photo": null
+  },
+  {
     "date": "2026-05-02",
     "title": "Hoping work was smooth as a smoothie x",
     "message": "Hopefully  you read this when you're finished work, all tucked in and getting some rest. You are loved as always, beautiful as ever, and worth every damn moment of joy and happiness. \n\n Love you!!!!.",
